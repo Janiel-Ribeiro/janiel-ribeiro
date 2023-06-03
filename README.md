@@ -11,8 +11,6 @@
    
    <br>
    
-    ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
-   
   <div> 
    
     ![Snake animation](https://github.com/janiel-ribeiro/janiel-ribeiro/blob/output/github-contribution-grid-snake.svg)
